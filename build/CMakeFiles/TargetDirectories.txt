@@ -1,0 +1,4 @@
+C:/Users/p.anvesh/Desktop/from Git/CSM-Custom System Monitor/Custom-Sytem-Monitor-C-/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/p.anvesh/Desktop/from Git/CSM-Custom System Monitor/Custom-Sytem-Monitor-C-/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/p.anvesh/Desktop/from Git/CSM-Custom System Monitor/Custom-Sytem-Monitor-C-/build/libs/DataCollector/CMakeFiles/DataCollector.dir
+C:/Users/p.anvesh/Desktop/from Git/CSM-Custom System Monitor/Custom-Sytem-Monitor-C-/build/app/CMakeFiles/app.dir

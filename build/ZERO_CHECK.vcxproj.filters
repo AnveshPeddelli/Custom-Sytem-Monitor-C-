@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\p.anvesh\Desktop\from Git\CSM-Custom System Monitor\Custom-Sytem-Monitor-C-\build\CMakeFiles\29f4e84b516003b41762395442001cb5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5D0C63D0-45E4-3ECD-AA49-2084B42B43D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

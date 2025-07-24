@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/p.anvesh/Desktop/from Git/CSM-Custom System Monitor/Custom-Sytem-Monitor-C-/build/cmake_install.cmake",
+		"C:/Users/p.anvesh/Desktop/from Git/CSM-Custom System Monitor/Custom-Sytem-Monitor-C-/build/libs/DataCollector/cmake_install.cmake",
+		"C:/Users/p.anvesh/Desktop/from Git/CSM-Custom System Monitor/Custom-Sytem-Monitor-C-/build/app/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

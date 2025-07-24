@@ -1,0 +1,3 @@
+add_library(DataCollector STATIC dataCollector.cpp)
+target_include_directories(DataCollector PUBLIC .)
+target_compile_definitions(DataCollector PUBLIC DATA_COLLECTOR_EXPORT)
